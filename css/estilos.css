@@ -256,14 +256,23 @@ img{
 	margin-bottom: 250px;
 }
 
-.container-fluid-galeria h1 {
+.container-fluid-galeria h3 {
 	font-size: 30px;
     text-align: center;
     margin-top: 70px;
     font-family: "Oswald";
     color: #000;
-    margin-bottom: 50px;
 } 
+
+.container-fluid-galeria p{
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
 
 .gallery-2 img {
     width: 100%;
@@ -351,7 +360,7 @@ text-align: justify center;
     text-align: center;
     color: #000;
 }
-.contact-form h1{
+.contact-form p{
 	font-family: 'Poppins', sans-serif;
 	text-transform: uppercase;
     margin-bottom: 10%;
@@ -425,12 +434,11 @@ footer p{
 	text-align: center;
 }
 
-.contacto p{
+.contacto h1{
     width: 100%;
     font-family: 'Poppins', sans-serif;
     display: block;
     font-size: 17px;
-    padding: 1px;
     color:#545454;
     text-align: center;
    
